@@ -3,7 +3,7 @@
 * **Experience** - I've worked on various system from tiny open scripts to enterprise level system and everything in between
 * **Education** - learning is part of my nature. My most recent endevour in education is an [Android Coursera](https://class.coursera.org/android-001) class. 
 * **Openess** - my philosophy is that everyone wins when there is a room for open constructive critisim. I do not hold back my thoughts. 
-* **Work ethic** - don't take my word for it, feel free to ask my [former](http://www.linkedin.com/in/juliankhandros) [colleagues](http://www.linkedin.com/in/ilyascharrenbroich), [managers](http://www.linkedin.com/in/mikegrassotti), [classmates](http://www.linkedin.com/in/nnaoumov) and [interns](https://github.com/jki127)
+* **Work ethic** - don't take my word for it, feel free to ask my [former](http://www.linkedin.com/in/juliankhandros) [colleagues](http://www.linkedin.com/in/ilyascharrenbroich), [managers](http://www.linkedin.com/in/mikegrassotti), [classmates](http://www.linkedin.com/in/nnaoumov), [interns](https://github.com/jki127) and [collaborators](http://www.linkedin.com/in/grinkot). You can also ask my [brother](http://www.linkedin.com/pub/gennadiy-katz/3/984/94), but he may be a little biased.
 
 #####  Why should you stop reading this and move to to the next developer?
 
